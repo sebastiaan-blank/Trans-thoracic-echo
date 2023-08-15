@@ -13,4 +13,4 @@ Note the vasopressor_hourly and fluid_hourly scripts can take a while to run dep
 Finally run the cohort_tte scripts to extract the final cohort with all variables. 
 The data is extracted as a longitudinal cohort with multiple rows per patient, each row corresponding a 4 hour block
 Maximum of 30 block for an individual patient
-
+------
